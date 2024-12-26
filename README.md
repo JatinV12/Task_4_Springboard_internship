@@ -1,27 +1,9 @@
-<!-- social media connecting shield -->
 
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-
-![Overview](https://github.com/sJalui/Infosys-Sprinboard-Task-4/blob/main/Overview.png?raw=true)
-![Drill Through Feature](https://github.com/sJalui/Infosys-Sprinboard-Task-4/blob/main/Drill%20Through%20Feature.png?raw=true)
-![Page with Drill Through](https://github.com/sJalui/Infosys-Sprinboard-Task-4/blob/main/Page%20with%20Drill%20Through.png?raw=true)
+![task4](https://github.com/user-attachments/assets/7337d078-7b8f-437f-b13e-f8984b0d45e0)
 
 # ✨ Customer Trends and Insights Dashboard with Power BI | Infosys Springboard Task 4 
 
-Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Customer Trends and Insights Dashboard`. Using `Power BI and it's tools`.
 
-<!-- my social media links -->
-
-[instagram-url]: https://www.instagram.com/s_jalui
-[linkedin-url]: https://in.linkedin.com/in/shubh-jalui-1923b1259
-[github-url]: https://www.github.com/sJalui
-<!-- shield icon links -->
-
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
 
 ## Objective:
